@@ -1,0 +1,2 @@
+class CalculadoraException(Exception):
+    pass
