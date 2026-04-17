@@ -4,6 +4,9 @@
 # VScode
 .vscode
 
+#JetBrains
+.idea
+
 # Folders
 */ham/
 */spam/
